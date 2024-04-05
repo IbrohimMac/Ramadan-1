@@ -1,0 +1,283 @@
+{
+  "message": "Ramadan mubarak 🌙🕋 for donate 9860 2701 0911 0345",
+  "addition": "Avval: Angren (-3), Qo'qon (-7), Namangan (-10), Farg'ona (-10), Marg'ilon (-10), Andijon (-12),  Xonobod (-13)\nKeyin: Jizzax (+6), Guliston (+2), Denov (+6), Jomboy (+7), Samarqand (+9),  Shahrisabz (+10), Kattaqo'rg'on (+12), Qarshi (+14), Nurota (+14), Navoiy, (+16), Buxoro (+19), Xiva (+36), Nukus (+39), Mo'ynoq (+41)",
+  "source": "namozvaqti.uz",
+  "dates": [
+    {
+      "_id": "65e81b09a3ce65826ea414ad",
+      "day": 1,
+      "week": "Dushanba",
+      "sana": "3/11/2024",
+      "hijr_date": "1 Ramazon 1445",
+      "sehar": "05:23",
+      "iftar": "18:27",
+      "createdAt": "2024-03-06T07:28:09.843Z",
+      "updatedAt": "2024-03-06T07:37:24.803Z"
+    },
+    {
+      "_id": "65e81edb236bc53f1ced105f",
+      "day": 2,
+      "week": "Seshanba",
+      "sana": "3/12/2024",
+      "hijr_date": "2 Ramazon 1445",
+      "sehar": "05:21",
+      "iftar": "18:28",
+      "createdAt": "2024-03-06T07:44:27.221Z",
+      "updatedAt": "2024-03-06T07:44:27.221Z"
+    },
+    {
+      "_id": "65e81ef8236bc53f1ced1061",
+      "day": 3,
+      "week": "Chorshanba",
+      "sana": "3/13/2024",
+      "hijr_date": "3 Ramazon 1445",
+      "sehar": "05:20",
+      "iftar": "18:29",
+      "createdAt": "2024-03-06T07:44:56.194Z",
+      "updatedAt": "2024-03-06T07:44:56.194Z"
+    },
+    {
+      "_id": "65e81f662a5c53f95c10b59c",
+      "day": 4,
+      "week": "Payshanba",
+      "sana": "3/14/2024",
+      "hijr_date": "4 Ramazon 1445",
+      "sehar": "05:18",
+      "iftar": "18:31"
+    },
+    {
+      "_id": "65e81fa22a5c53f95c10b59e",
+      "day": 5,
+      "week": "Juma",
+      "sana": "3/15/2024",
+      "hijr_date": "5 Ramazon 1445",
+      "sehar": "05:16",
+      "iftar": "18:32"
+    },
+    {
+      "_id": "65e81fca2a5c53f95c10b5a0",
+      "day": 6,
+      "week": "Shanba",
+      "sana": "3/16/2024",
+      "hijr_date": "6 Ramazon 1445",
+      "sehar": "05:14",
+      "iftar": "18:33"
+    },
+    {
+      "_id": "65e81fe12a5c53f95c10b5a2",
+      "day": 7,
+      "week": "Yakshanba",
+      "sana": "3/17/2024",
+      "hijr_date": "7 Ramazon 1445",
+      "sehar": "05:13",
+      "iftar": "18:34"
+    },
+    {
+      "_id": "65e8209b335b2ae13eb93864",
+      "day": 8,
+      "week": "Dushanba",
+      "sana": "3/18/2024",
+      "hijr_date": "8 Ramazon 1445",
+      "sehar": "05:11",
+      "iftar": "18:35"
+    },
+    {
+      "_id": "65e820cf335b2ae13eb93866",
+      "day": 9,
+      "week": "Seshanba",
+      "sana": "3/19/2024",
+      "hijr_date": "9 Ramazon 1445",
+      "sehar": "05:09",
+      "iftar": "18:36"
+    },
+    {
+      "_id": "65e820e8335b2ae13eb93868",
+      "day": 10,
+      "week": "Chorshanba",
+      "sana": "3/20/2024",
+      "hijr_date": "10 Ramazon 1445",
+      "sehar": "05:07",
+      "iftar": "18:37"
+    },
+    {
+      "_id": "65e821ab335b2ae13eb9386f",
+      "day": 11,
+      "week": "Payshanba",
+      "sana": "3/21/2024",
+      "hijr_date": "11 Ramazon 1445",
+      "sehar": "05:05",
+      "iftar": "18:38"
+    },
+    {
+      "_id": "65e8220b335b2ae13eb93872",
+      "day": 12,
+      "week": "Juma",
+      "sana": "3/22/2024",
+      "hijr_date": "12 Ramazon 1445",
+      "sehar": "05:04",
+      "iftar": "18:39"
+    },
+    {
+      "_id": "65e82230335b2ae13eb93874",
+      "day": 13,
+      "week": "Shanba",
+      "sana": "3/23/2024",
+      "hijr_date": "13 Ramazon 1445",
+      "sehar": "05:02",
+      "iftar": "18:40"
+    },
+    {
+      "_id": "65e8224d335b2ae13eb93876",
+      "day": 14,
+      "week": "Yakshanba",
+      "sana": "3/24/2024",
+      "hijr_date": "14 Ramazon 1445",
+      "sehar": "05:00",
+      "iftar": "18:42"
+    },
+    {
+      "_id": "65e82283335b2ae13eb93878",
+      "day": 15,
+      "week": "Dushanba",
+      "sana": "3/25/2024",
+      "hijr_date": "15 Ramazon 1445",
+      "sehar": "04:58",
+      "iftar": "18:43"
+    },
+    {
+      "_id": "65e82553335b2ae13eb9387a",
+      "day": 16,
+      "week": "Seshanba",
+      "sana": "3/26/2024",
+      "hijr_date": "16 Ramazon 1445",
+      "sehar": "04:57",
+      "iftar": "18:44"
+    },
+    {
+      "_id": "65e8256b335b2ae13eb9387c",
+      "day": 17,
+      "week": "Chorshanba",
+      "sana": "3/27/2024",
+      "hijr_date": "17 Ramazon 1445",
+      "sehar": "04:55",
+      "iftar": "18:45"
+    },
+    {
+      "_id": "65e8258c335b2ae13eb9387e",
+      "day": 18,
+      "week": "Payshanba",
+      "sana": "3/28/2024",
+      "hijr_date": "18 Ramazon 1445",
+      "sehar": "04:53",
+      "iftar": "18:46"
+    },
+    {
+      "_id": "65e825ab335b2ae13eb93880",
+      "day": 19,
+      "week": "Juma",
+      "sana": "3/29/2024",
+      "hijr_date": "19 Ramazon 1445",
+      "sehar": "04:51",
+      "iftar": "18:47"
+    },
+    {
+      "_id": "65e825ce335b2ae13eb93882",
+      "day": 20,
+      "week": "Shanba",
+      "sana": "3/30/2024",
+      "hijr_date": "20 Ramazon 1445",
+      "sehar": "04:49",
+      "iftar": "18:48"
+    },
+    {
+      "_id": "65e825e4335b2ae13eb93884",
+      "day": 21,
+      "week": "Yakshanba",
+      "sana": "3/31/2024",
+      "hijr_date": "21 Ramazon 1445",
+      "sehar": "04:48",
+      "iftar": "18:49"
+    },
+    {
+      "_id": "65e8261c335b2ae13eb93886",
+      "day": 22,
+      "week": "Dushanba",
+      "sana": "4/1/2024",
+      "hijr_date": "22 Ramazon 1445",
+      "sehar": "04:46",
+      "iftar": "18:50"
+    },
+    {
+      "_id": "65e82638335b2ae13eb93888",
+      "day": 23,
+      "week": "Seshanba",
+      "sana": "4/2/2024",
+      "hijr_date": "23 Ramazon 1445",
+      "sehar": "04:44",
+      "iftar": "18:51"
+    },
+    {
+      "_id": "65e82668335b2ae13eb9388a",
+      "day": 24,
+      "week": "Chorshanba",
+      "sana": "4/3/2024",
+      "hijr_date": "24 Ramazon 1445",
+      "sehar": "04:42",
+      "iftar": "18:52"
+    },
+    {
+      "_id": "65e82685335b2ae13eb9388c",
+      "day": 25,
+      "week": "Payshanba",
+      "sana": "4/4/2024",
+      "hijr_date": "25 Ramazon 1445",
+      "sehar": "04:40",
+      "iftar": "18:53"
+    },
+    {
+      "_id": "65e826b0335b2ae13eb9388e",
+      "day": 26,
+      "week": "Juma",
+      "sana": "4/5/2024",
+      "hijr_date": "26 Ramazon 1445",
+      "sehar": "04:38",
+      "iftar": "18:54"
+    },
+    {
+      "_id": "65e826cc335b2ae13eb93890",
+      "day": 27,
+      "week": "Shanba",
+      "sana": "4/6/2024",
+      "hijr_date": "27 Ramazon 1445",
+      "sehar": "04:36",
+      "iftar": "18:56"
+    },
+    {
+      "_id": "65e8270c335b2ae13eb93892",
+      "day": 28,
+      "week": "Yakshanba",
+      "sana": "4/7/2024",
+      "hijr_date": "28 Ramazon 1445",
+      "sehar": "04:34",
+      "iftar": "18:57"
+    },
+    {
+      "_id": "65e8272f335b2ae13eb93894",
+      "day": 29,
+      "week": "Dushanba",
+      "sana": "4/8/2024",
+      "hijr_date": "29 Ramazon 1445",
+      "sehar": "04:32",
+      "iftar": "18:58"
+    },
+    {
+      "_id": "65e82747335b2ae13eb93896",
+      "day": 30,
+      "week": "Seshanba",
+      "sana": "4/9/2024",
+      "hijr_date": "30 Ramazon 1445",
+      "sehar": "04:31",
+      "iftar": "18:59"
+    }
+  ]
+}
